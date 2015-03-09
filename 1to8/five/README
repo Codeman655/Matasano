@@ -1,0 +1,9 @@
+To test this solution, simply run r-xor-encrypt.rb followed by the key and the
+plaintext that will be "encrypted."
+
+A quick note is that the command is not configured to handle a file of plaintext
+to encrypt. I was testing on a Unix system so to get the command to correctly handle
+newlines. To test this, I used "cat" to output the contents of the file into the command line.
+
+r-xor-encrypt.rb
+

@@ -1,0 +1,2 @@
+To test:
+run $ ./my_xor.rb "<hex string>" "<hex string>"

@@ -1,0 +1,4 @@
+To test this solution, simply run findcipher.rb gistfile1.txt
+
+The output will be the deciphered hex value, followed by the key,score, and
+decrypted text.
